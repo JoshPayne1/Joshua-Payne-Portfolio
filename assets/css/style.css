@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+html {
+    
+}
+
+
+.stash {
+    background-image: linear-gradient(rgba(100,250,117)0%, rgba(240,220,30)100%);
+    ;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    padding: 1%
+}
+
+body {
+    
+}
+
+li {
+    color: red;
+   
+    
+   
+    
+
+}
+    .card { 
+    display: flex;
+    min-width: 300px;
+    justify-content: space-between;
+    list-style: none;
+    text-decoration: underline red 5px;
+    
+    
+}
+
+    .car {
+        margin-top: 15px;
+        margin-bottom: 25px;
+    }
+
+    .truck {
+        margin-bottom: 15px;
+    }
+
+    .space {
+        margin-top: 25px;
+        margin-bottom: 25px;
+
+    }
+
+    img { 
+        height: 450px;
+        width: 100%;
+        
+       
+    }
+
+     img {
+        width: 100%;
+    }
+
+    
+        
+    section {
+
+    }
+
+    footer {
+        display: flex;
+        align-items: flex-end;
+        justify-content: space-between;
+        padding:1%
+    }
+
+    ul {
+        display: flex;
+        min-width: 300px;
+        justify-content: space-between;
+        list-style: none;
+        text-decoration: underline red 5px;
+    
+    }
